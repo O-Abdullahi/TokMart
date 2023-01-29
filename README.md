@@ -8,7 +8,7 @@ TokMart features a variety of features that make it the ultimate destination for
 
 Deployed to Goerli test network and host on vercel. You can use the app via this link: https://tokmart.vercel.app
 
-TokMart is the perfect destination for anyone looking to start trading NFTs. With its secure and easy-to-use platform, users can start buying and selling NFTs quickly and securely. Thank you for using TokMart!  https://tokmart.vercel.app
+TokMart is the perfect destination for anyone looking to start trading NFTs. With its secure and easy-to-use platform, users can start buying and selling NFTs quickly and securely. Thank you for using TokMart!  https://tokmart.vercel.ap
 
 
 ## Technology Stack & Tools
